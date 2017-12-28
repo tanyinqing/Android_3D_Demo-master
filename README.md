@@ -1,22 +1,34 @@
+<h1 id="20171228_0">目录</h1>
+
 # [exlipse如何github上传](#20171228_1)
 # [文件清单](#20171228_2)
 # [其他](#20171228_3)
+# [效果图](#20171228_4)
+
++ [实例应用下载apk文件](https://github.com/amapapi/Android_3D_Demo/raw/master/resource/AMapApiV2Demo.apk) (apk)
+
+<h1 id="20171228_">测试</h1>
+[返回](#20171228_0)
 
 <h1 id="20171228_2">文件清单</h1>
 
 |包名|名称|说明|备注|
 |--|--|--|--|
-|fragment|MainFragment|主页面的片段|备注|
-|activity|personnelConfirm|人员权限详情|备注|
-|activity|PersonnelSearch|人员搜索框参数|备注|
+|activity|MainActivity|主页|备注|
+|basic|ScreenShotActivity|地图截屏|备注|
+
+[返回](#20171228_0)
 <h1 id="20171228_3">其他</h1>
 
+- **如果本地和远程出现了不匹配，就把远程的删除了，重新从本地上传上去。因为本地的文件一般不会出现问题，一个人用的情况下，千万不要合并**。
 - 出现错误，先删除res下的crunch文件
 - 同一台电脑exlipse和studio如何切换
  **JAVA_HOME**
 **C:\Program Files(x86)\Java\jdk1.8.0_40**
 - 高德地图的模型图
 - **值得学习的地方把apk文件和效果一起打包**
+[返回](#20171228_0)
+
 <h1 id="20171228_1">exlipse如何github上传</h1>
 
 - 先在github上建立一个库
@@ -56,7 +68,7 @@ fetch = +refs/heads/*:refs/remotes/origin/*
  email = 27@qq.com
 
 ```
-
+[返回](#20171228_0)
 - geocoder.GeocoderActivity  地理编码 功能
 - basic.ScreenShotActivity  地图截屏功能
 
@@ -85,8 +97,14 @@ Android_3D_Demo
 
 ##下载资源如下：
 
-+ [实例应用](https://github.com/amapapi/Android_3D_Demo/raw/master/resource/AMapApiV2Demo.apk) (apk)
-
 + 扫一扫下载应用
 
 ![图片](https://raw.githubusercontent.com/amapapi/Android_3D_Demo/master/resource/%E4%BA%8C%E7%BB%B4%E7%A0%81.png )
+
+
+<h1 id="20171228_4">效果图</h1>
+
+[返回](#20171228_0)
+
+
+
