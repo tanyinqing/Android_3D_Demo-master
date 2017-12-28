@@ -104,6 +104,11 @@ Android_3D_Demo
 
 <h1 id="20171228_4">效果图</h1>
 
+* 这个是apk的主页的页面
+* ![图片](https://raw.githubusercontent.com/amapapi/Android_3D_Demo/master/resource/主页.png)
+* 这个是apk的地理反编码页面
+* ![图片](https://raw.githubusercontent.com/amapapi/Android_3D_Demo/master/resource/地理反编码.png)
+
 [返回](#20171228_0)
 
 
