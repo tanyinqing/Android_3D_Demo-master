@@ -1,9 +1,33 @@
 # [exlipse如何github上传](#20171228_1)
+# [文件清单](#20171228_2)
+# [其他](#20171228_3)
 
+<h1 id="20171228_2">文件清单</h1>
+
+|包名|名称|说明|备注|
+|--|--|--|--|
+|fragment|MainFragment|主页面的片段|备注|
+|activity|personnelConfirm|人员权限详情|备注|
+|activity|PersonnelSearch|人员搜索框参数|备注|
+<h1 id="20171228_3">其他</h1>
+
+- 出现错误，先删除res下的crunch文件
+- 同一台电脑exlipse和studio如何切换
+ **JAVA_HOME**
+**C:\Program Files(x86)\Java\jdk1.8.0_40**
+- 高德地图的模型图
+- **值得学习的地方把apk文件和效果一起打包**
 <h1 id="20171228_1">exlipse如何github上传</h1>
 
 - 先在github上建立一个库
 - 把https的地址配置到url = "" 配置文件中
+- 建立一个库
+	- 项目右键team-share Project 
+	- 打钩 use or create repository in parent folder of project
+	- 项目打钩  点击 create repository
+	- finish
+- 推送到本地 pull
+- 提交到库并保存 commit and push  全选
 
 ```
 studio配置
